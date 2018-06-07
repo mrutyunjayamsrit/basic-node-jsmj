@@ -1,0 +1,6 @@
+{
+  "name": "basic-node-jsmj",
+  "description": "Webhook echo sample",
+  "repository": "https://github.com/mrutyunjayamsrit/basic-node-jsmj.git",
+  "keywords": ["api.ai", "dialogflow", "natural language"]
+}
