@@ -1,0 +1,9 @@
+{
+  "name": "basic-nodejs",
+  "version": "0.0.0",
+  "description": "basicNodejs",
+  "main": "index.js",
+  "author": {
+    "name": "mrutyunjayya.m"
+  }
+}
