@@ -5,6 +5,8 @@ const bodyParser = require("body-parser");
 
 const restService = express();
 
+var port = Number(process.env.PORT || 8000);
+
 restService.use(
     bodyParser.urlencoded({
         extended: true
